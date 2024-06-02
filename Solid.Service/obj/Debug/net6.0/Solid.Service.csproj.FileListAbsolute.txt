@@ -1,0 +1,60 @@
+C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\דוטנט\פרויקט בנק\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\דוטנט\פרויקט בנק\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\דוטנט\פרויקט בנק\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\דוטנט\פרויקט בנק\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\דוטנט\פרויקט בנק\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\דוטנט\פרויקט בנק\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\דוטנט\פרויקט בנק\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\דוטנט\פרויקט בנק\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\דוטנט\פרויקט בנק\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\דוטנט\פרויקט בנק\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\דוטנט\פרויקט בנק\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\דוטנט\פרויקט בנק\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\דוטנט\פרויקט בנק\bank-api-project\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\דוטנט\פרויקט בנק\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\דוטנט\פרויקט בנק\bank-api-project\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+Y:\Groups\Group_4\ברדה  יעל\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+Y:\Groups\Group_4\ברדה  יעל\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+Y:\Groups\Group_4\ברדה  יעל\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+Y:\Groups\Group_4\ברדה  יעל\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_4\ברדה  יעל\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+Y:\Groups\Group_4\ברדה  יעל\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+Y:\Groups\Group_4\ברדה  יעל\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_4\ברדה  יעל\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+Y:\Groups\Group_4\ברדה  יעל\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+Y:\Groups\Group_4\ברדה  יעל\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_4\ברדה  יעל\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+Y:\Groups\Group_4\ברדה  יעל\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+Y:\Groups\Group_4\ברדה  יעל\bank-api-project\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+Y:\Groups\Group_4\ברדה  יעל\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+Y:\Groups\Group_4\ברדה  יעל\bank-api-project\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\שיעורים דוטנט\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\שיעורים דוטנט\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\שיעורים דוטנט\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\שיעורים דוטנט\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\שיעורים דוטנט\bank-api-project\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\שיעורים דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\שיעורים דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\שיעורים דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\שיעורים דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\שיעורים דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\שיעורים דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\שיעורים דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\שיעורים דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\שיעורים דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\דוטנט\שיעורים דוטנט\bank-api-project\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
